@@ -5,7 +5,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import KknCard from "./kknCard";
 
-export default function Kkn() {
+export default function kkn() {
   useEffect(() => {
     AOS.init({ once: true, duration: 600, mirror: false });
   }, []);
