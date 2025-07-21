@@ -18,7 +18,7 @@ export default function PotensiSection() {
     {
       title: "Telaga Gadhel",
       description:
-        "Di sini nanti kamu ceritakan gambaran umum potensi alam (misal: sumber air, cekungan, dll).",
+        "Telaga Gadel merupakan embung yang dibangun untuk menampung air hujan, menyediakan pasokan air bersih bagi warga dan irigasi sawah saat musim kemarau panjang . Tidak hanya itu, telaga ini juga berpotensi sebagai destinasi ekowisata dan sumber pendapatan lokal melalui kegiatan pemancingan ikan air tawar . Berada di kawasan karst Gunung Sewu, Telaga Gadel memanfaatkan cekungan alami untuk menyimpan air yang sulit tertahan di permukaan kapur, sekaligus menawarkan lanskap unik yang menarik bagi pengunjung .",
       images: [
         "hero.jpg",
         "/Potensi/Telaga/Telaga1.jpg",
@@ -28,11 +28,9 @@ export default function PotensiSection() {
     {
       title: "Gunung Puncis",
       description:
-        "Deskripsikan keunikan budaya lokal (tarian, kerajinan, upacara adat…).",
+        "Gunung Puncis, yang terletak pada koordinat –8.0759593, 110.5699367, merupakan bagian dari jajaran Bukit Karst Pegunungan Sewu dengan lanskap kaya akan bukit kerucut, lembah karst, dan potensi gua horizontal menciptakan ekosistem unik yang menarik untuk penelitian geologi dan konservasi alam Wikipedia. Kondisi tersebut membuka peluang pengembangan ekowisata petualangan seperti jalur trekking dan titik pandang panorama karst, sekaligus sebagai sarana edukasi geologi bagi pengunjung Bappeda Gunungkidul. Bila dikelola bersama masyarakat lokal dengan program homestay dan pemandu desa Gunung Puncis berpotensi menumbuhkan ekonomi berbasis pariwisata alam berkelanjutan sambil melestarikan warisan geologi Gunungkidul",
       images: [
-        "/potensi/puncis-1.jpg",
-        "/potensi/puncis-2.jpg",
-        "/potensi/puncis-3.jpg",
+        "/Potensi/Gunung/Gunung-Puncis.jpg",
       ],
     },
   ];
