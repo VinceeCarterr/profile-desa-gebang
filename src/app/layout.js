@@ -3,7 +3,7 @@ import Navbar from "../components/Navbar";
 import AOSProvider from "../components/AOSProvider";
 
 export const metadata = {
-  title: "Profil Desa Gebang",
+  title: "Profil Padukuhan Gebang",
 };
 
 export default function RootLayout({ children }) {

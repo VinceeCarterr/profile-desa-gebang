@@ -55,7 +55,7 @@ export default function UmkmSection() {
       address: "Gebang, Kemiri, Wonosari, Gunungkidul Regency, Special Region of Yogyakarta 55881 (Available in gmaps)",
       price: "2.000 - 15.000",
       hours: "24 hours",
-      imgSrcs: ["/Foto-UMKM/Crystal/1.jpg", "/Foto-UMKM/Crystal/2.jpg", "/Foto-UMKM/Crystal/3.jpg", "/Foto-UMKM/Crystal/4.jpg", "/Foto-UMKM/Crystal/5.jpg", "/Foto-UMKM/Crystal/6.jpg"],
+      imgSrcs: ["/Foto-UMKM/Sumene/1.jpg", "/Foto-UMKM/Sumene/2.jpg", "/Foto-UMKM/Sumene/3.jpg", "/Foto-UMKM/Sumene/4.jpg", "/Foto-UMKM/Sumene/5.jpg", "/Foto-UMKM/Sumene/6.jpg"],
       imgAlt: "Foto Cilok Lezat.",
       reverse: true,
     },
